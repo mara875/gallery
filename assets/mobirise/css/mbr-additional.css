@@ -1,12 +1,8 @@
 body {
-  font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
-  align: center;
-  display: flex;
-  color:#485365;
+  font-family: Jost;
 }
 .display-1 {
-  font-family: Quicksand, Cantarell, sans-serif;
-  color:#485365;
+  font-family: 'Jost', sans-serif;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -14,8 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: Quicksand, Cantarell, sans-serif;
-  color:#485365;
+  font-family: 'Jost', sans-serif;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -23,8 +18,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: Quicksand, Cantarell, sans-serif;
-  color:#485365;
+  font-family: 'Jost', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -32,8 +26,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: Quicksand, Cantarell, sans-serif;
-  color:#485365;
+  font-family: 'Jost', sans-serif;
   font-size: 2.2rem;
   line-height: 1.5;
 }
@@ -41,8 +34,7 @@ body {
   font-size: 2.75rem;
 }
 .display-7 {
-  font-family: Quicksand, Cantarell, sans-serif;
-  color:#485365;
+  font-family: 'Jost', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
