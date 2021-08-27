@@ -3,10 +3,6 @@ body {
   align: center;
   display: flex;
   color:#485365;
-  margin-left: 20%;
-  margin-right:20%;
-  margin-bottom: 5%;
-  margin-top: 3%;
 }
 .display-1 {
   font-family: Quicksand, Cantarell, sans-serif;
