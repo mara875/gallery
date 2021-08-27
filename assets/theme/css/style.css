@@ -4,7 +4,15 @@ section {
 }
 
 body {
-  font-style: normal;
+  font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  align: center;
+  display: flex;
+  color:#485365;
+  margin-left: 20%;
+  margin-right:20%;
+  margin-bottom: 5%;
+  margin-top: 3%;
+	font-style: normal;
   line-height: 1.5;
   font-weight: 400;
   color: #232323;
@@ -36,6 +44,10 @@ a.mbr-iconfont:hover {
 }
 
 a {
+  font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  color:#485365;
+  align: center;
+  display: flex;
   font-style: normal;
   font-weight: 400;
   cursor: pointer;
@@ -45,15 +57,21 @@ a, a:hover {
 }
 
 .mbr-section-title {
+	font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  color:#485365;
   font-style: normal;
   line-height: 1.3;
 }
 
 .mbr-section-subtitle {
+	 font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  color:#485365;
   line-height: 1.3;
 }
 
 .mbr-text {
+	 font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  color:#485365;
   font-style: normal;
   line-height: 1.7;
 }
@@ -151,6 +169,8 @@ section .mbr-background-video-preview {
 }
 
 .mbr-regular {
+	 font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  color:#485365;
   font-weight: 400;
 }
 
@@ -168,6 +188,8 @@ section .mbr-background-video-preview {
 }
 
 .media-container-row {
+	 font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  color:#485365;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -176,10 +198,14 @@ section .mbr-background-video-preview {
   align-items: start;
 }
 .media-container-row .media-size-item {
+	 font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  color:#485365;
   width: 400px;
 }
 
 .media-container-column {
+	 font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  color:#485365;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -734,6 +760,8 @@ input[type=range] {
 
 html,
 body {
+	 font-family: Quicksand, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+  color:#485365;
   height: auto;
   min-height: 100vh;
 }
